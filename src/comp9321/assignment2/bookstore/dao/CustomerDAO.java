@@ -31,7 +31,7 @@ public class CustomerDAO {
 			}
 		}
 	}
-
+//changes
 	public static int randInt(int min, int max) {
 		return ThreadLocalRandom.current().nextInt(min, max + 1);
 	}
